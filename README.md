@@ -1,15 +1,34 @@
 👋 Hi everyone. My name is Christian
 
-ABOUT ME 
+## ABOUT ME 
+
 🌱 I’m currently a student in software engineering on Qwasar/Upskill
 
-👀 I’m interested in C, systems programming and OOP
+👀 I’m interested in the C language, systems programming and OOP
 
 :climbing: Currently looking for internships or small jobs related to any software field
 
-- 📫 How to reach me: c_badura@web.de
 
-PROJECTS
+📫 How to reach me: c_badura@web.de
+
+## PROJECTS
+
+C language learning:
+
+Mastermind boardgame:
+
+
+Simple implementation of printf:
+
+
+# UNIX projects
+
+Simple implementation of ls command:
+
+More complex implementation of tar archive command:
+
+
+
 
 
 <!---
