@@ -13,10 +13,9 @@
 
 ## PROJECTS
 
-C language learning:
+[C language learning] (https://github.com/cbadura/C-language)
 
 Mastermind boardgame:
-
 
 Simple implementation of printf:
 
