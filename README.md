@@ -13,7 +13,7 @@
 
 ## PROJECTS
 
-[C language learning] (https://github.com/cbadura/C-language)
+C language learning: (https://github.com/cbadura/C-language)
 
 Mastermind boardgame:
 
