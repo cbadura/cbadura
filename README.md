@@ -15,7 +15,7 @@
 
 [C language learning](https://github.com/cbadura/C-language)
 
-Mastermind boardgame
+[Mastermind boardgame](https://github.com/cbadura/my_mastermind)
 
 Simple implementation of printf
 
