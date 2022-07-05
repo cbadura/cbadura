@@ -20,7 +20,7 @@ Mastermind boardgame:
 Simple implementation of printf:
 
 
-# UNIX projects
+### UNIX projects
 
 Simple implementation of ls command:
 
