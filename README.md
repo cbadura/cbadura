@@ -4,7 +4,7 @@
 
 🌱 I’m currently a student in software engineering on Qwasar/Upskill
 
-👀 I’m interested in the C language, systems programming and OOP
+👀 For the last six months I've been interested in the C language, UNIX and systems programming
 
 :climbing: Currently looking for internships or small jobs related to any software field
 
