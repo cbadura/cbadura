@@ -15,16 +15,16 @@
 
 [C language learning](https://github.com/cbadura/C-language)
 
-Mastermind boardgame:
+Mastermind boardgame
 
-Simple implementation of printf:
+Simple implementation of printf
 
 
 ### UNIX projects
 
-Simple implementation of ls command:
+Simple implementation of ls command
 
-More complex implementation of tar archive command:
+More complex implementation of tar archive command
 
 
 
