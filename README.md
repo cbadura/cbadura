@@ -13,6 +13,12 @@
 
 ## PROJECTS
 
+### UNIX projects
+
+[Simple implementation of ls command](https://github.com/cbadura/my_ls)
+
+[More complex implementation of tar archive command](https://github.com/cbadura/my_tar)
+
 ### C projects
 
 [C language learning](https://github.com/cbadura/C-language)
@@ -20,13 +26,6 @@
 [Mastermind boardgame](https://github.com/cbadura/my_mastermind)
 
 [Simple implementation of printf](https://github.com/cbadura/my_printf)
-
-
-### UNIX projects
-
-[Simple implementation of ls command](https://github.com/cbadura/my_ls)
-
-[More complex implementation of tar archive command](https://github.com/cbadura/my_tar)
 
 
 ### Javascript/HTML/CSS projects
