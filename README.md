@@ -6,6 +6,8 @@
 
 👀 For the last six months I've been interested in the C language, UNIX and systems programming
 
+:surfer: Recently also started learning Ruby 
+
 :climbing: Currently looking for internships or small jobs related to any software field
 
 
