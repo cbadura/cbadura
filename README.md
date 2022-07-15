@@ -33,7 +33,9 @@
 [A few smaller projects](https://github.com/cbadura/Web-Javascript-projects)
 
 
+### Ruby
 
+[Ruby exercises](https://github.com/cbadura/Ruby)
 
 
 <!---
