@@ -31,7 +31,7 @@
 
 [An interactive blockchain building tool](https://github.com/cbadura/my_blockchain)
 
-[Assembler for the nand2tetris Hack assembly language](https://github.com/cbadura/hack_assembler)
+[Assembler for the nand2tetris Hack assembly language (in progress)](https://github.com/cbadura/hack_assembler)
 
 ### Javascript/HTML/CSS projects
 
