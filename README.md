@@ -25,13 +25,15 @@
 
 [C language learning](https://github.com/cbadura/C-language)
 
+[My own library of C functions](https://github.com/cbadura/My-own-C-library)
+
 [Mastermind boardgame](https://github.com/cbadura/my_mastermind)
 
 [Simple implementation of printf](https://github.com/cbadura/my_printf)
 
 [An interactive blockchain building tool](https://github.com/cbadura/my_blockchain)
 
-[Assembler for the nand2tetris Hack assembly language (in progress)](https://github.com/cbadura/hack_assembler)
+[Assembler for the nand2tetris Hack assembly language](https://github.com/cbadura/hack_assembler)
 
 ### Javascript/HTML/CSS projects
 
