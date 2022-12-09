@@ -2,9 +2,9 @@
 
 ## ABOUT ME 
 
-🌱 I’m currently a student in software engineering on Qwasar/Upskill, will start at 42 Berlin in Nov. '22
+🌱 I’m a student in software engineering at 42 Berlin (since Nov. '22). Before that, I studied on Qwasar/Upskill for about a year.
 
-👀 For the last six months I've been interested in the C language, UNIX and systems programming
+👀 For the last twelve months I've been interested in the C language, UNIX and systems programming
 
 :surfer: Recently also started learning Ruby 
 
