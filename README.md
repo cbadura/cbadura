@@ -4,11 +4,11 @@
 
 🌱 I’m a student in software engineering at 42 Berlin (since Nov. '22). Before that, I studied on Qwasar/Upskill for about a year.
 
-👀 For the last twelve months I've been interested in the C language, UNIX and systems programming
+👀 For the last twelve months I've been interested in C/C++, UNIX and systems programming. I've completed a lot of projects at 42 Berlin, among others my own Bash-like shell, a Raycaster graphics engine (both in C), and a web server in C++.
 
-:surfer: Recently also started learning Ruby 
+:surfer: I have also dipped my toes into Python and Ruby. Java was my first language and I still have fond memories of the book _Objects First with Java_ and the BlueJ IDE
 
-:climbing: Currently looking for internships or small jobs related to any software field
+:climbing: Currently looking for a job in the field for when I finish the 42 curriculum!
 
 
 📫 How to reach me: c_badura@web.de
