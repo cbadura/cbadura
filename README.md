@@ -36,6 +36,8 @@
 
 [Raycaster--Maze](https://github.com/cbadura/Raycaster)
 
+[Minishell](https://github.com/cbadura/Minishell)
+
 ### Javascript/HTML/CSS projects
 
 [A few smaller projects](https://github.com/cbadura/Web-Javascript-projects)
