@@ -20,8 +20,6 @@
 
 ### C projects
 
-[C language learning](https://github.com/cbadura/C-language)
-
 [My own library of C functions](https://github.com/cbadura/My-own-C-library)
 
 [Mastermind boardgame](https://github.com/cbadura/my_mastermind)
@@ -35,6 +33,8 @@
 [More complex implementation of tar archive command](https://github.com/cbadura/my_tar)
 
 [Assembler for the nand2tetris Hack assembly language](https://github.com/cbadura/hack_assembler)
+
+[Raycaster--Maze](https://github.com/cbadura/Raycaster)
 
 ### Javascript/HTML/CSS projects
 
