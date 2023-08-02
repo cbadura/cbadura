@@ -15,12 +15,6 @@
 
 ## PROJECTS
 
-### UNIX projects
-
-[Simple implementation of ls command](https://github.com/cbadura/my_ls)
-
-[More complex implementation of tar archive command](https://github.com/cbadura/my_tar)
-
 ### C++ projects
 [Web server](https://github.com/cbadura/webserver/tree/main)
 
@@ -35,6 +29,10 @@
 [Simple implementation of printf](https://github.com/cbadura/my_printf)
 
 [An interactive blockchain building tool](https://github.com/cbadura/my_blockchain)
+
+[Simple implementation of ls command](https://github.com/cbadura/my_ls)
+
+[More complex implementation of tar archive command](https://github.com/cbadura/my_tar)
 
 [Assembler for the nand2tetris Hack assembly language](https://github.com/cbadura/hack_assembler)
 
