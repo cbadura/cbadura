@@ -21,6 +21,9 @@
 
 [More complex implementation of tar archive command](https://github.com/cbadura/my_tar)
 
+### C++ projects
+[Web server](https://github.com/cbadura/webserver/tree/main)
+
 ### C projects
 
 [C language learning](https://github.com/cbadura/C-language)
