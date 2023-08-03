@@ -16,7 +16,7 @@
 ## PROJECTS
 
 ### C++ projects
-[Web server](https://github.com/cbadura/webserver/tree/main)
+[HTTP Webserver](https://github.com/cbadura/webserver/tree/main)
 
 ### C projects
 
