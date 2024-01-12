@@ -29,14 +29,9 @@
 
 [Minishell](https://github.com/cbadura/Minishell)
 
-### Javascript/HTML/CSS projects
+### Full-stack projects
 
-[A few smaller projects](https://github.com/cbadura/Web-Javascript-projects)
-
-
-### Ruby
-
-[Ruby exercises](https://github.com/cbadura/Ruby)
+[Pong game website with matchmaking, chat, user profile, authentication...](https://github.com/cbadura/transcendence)
 
 
 <!---
